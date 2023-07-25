@@ -1,3 +1,4 @@
+
 Washington State Lottery Winners
 
 Team members:
@@ -17,3 +18,6 @@ We have some preliminary research questions to answer:
 3)	Categorize total jackpot into a buckets (1 mil to 20 mil... etc...)
 
 4)	Winning numbers which is more likely to win and there placement of the numbers
+# Project_1
+First group project request
+hello
