@@ -47,7 +47,7 @@ Part 1: 2020, 2021, 2022
 
 3)	What was one of the most common powerball/powerplay numbers overall?
 
-4) 	what are the top five greatest dollar months?
+4) 	What are the top five greatest dollar months jackpot?
 
 5)	Which day of the week had the highest jackpot?
 
@@ -59,6 +59,6 @@ Part 2: 2020 - 2022
 
 3)	What was one of the most common powerball/powerplay numbers overall?
 
-4) 	what are the top five greatest dollar months?
+4) 	What are the top five greatest dollar months jackpot?
 
 5)	Which day of the week had the highest jackpot?
