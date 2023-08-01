@@ -38,19 +38,6 @@ jackpot - Total winning jackpot amount
 in USD.
 
 
-
-Part 1: 2020, 2021, 2022
-
-1)	 What was one of the most common powerball/powerplay numbers depending on the day?
-
-2)  What was one of the most common powerball/powerplay numbers depending on the month?
-
-3)	What was one of the most common powerball/powerplay numbers overall?
-
-4) 	What are the top five greatest dollar months jackpot?
-
-5)	Which day of the week had the highest jackpot?
-
 Part 2: 2020 - 2022
 
 1)	 What was one of the most common powerball/powerplay numbers depending on the day?
@@ -62,3 +49,6 @@ Part 2: 2020 - 2022
 4) 	What are the top five greatest dollar months jackpot?
 
 5)	Which day of the week had the highest jackpot?
+
+
+Synopsis of what you will find
