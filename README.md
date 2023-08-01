@@ -24,6 +24,7 @@ powerplay - Winning powerplay number - for an additional $1 per play, the powerp
 jackpot - Total winning jackpot amount in USD.
 
 
+<<<<<<< HEAD
 2020 - 2022
 1. What were the most common powerball/powerplay numbers depending on the day?
 2. What were the most common powerball/powerplay numbers depending on the month?
@@ -31,3 +32,19 @@ jackpot - Total winning jackpot amount in USD.
 4. What are the top five greatest dollar months jackpot?
 5. Which day of the week had the highest jackpot? 
 
+=======
+Part 2: 2020 - 2022
+
+1)	 What was one of the most common powerball/powerplay numbers depending on the day?
+
+2)  What was one of the most common powerball/powerplay numbers depending on the month?
+
+3)	What was one of the most common powerball/powerplay numbers overall?
+
+4) 	What are the top five greatest dollar months jackpot?
+
+5)	Which day of the week had the highest jackpot?
+
+
+Synopsis of what you will find
+>>>>>>> fe009039a37e8d916383550399ec69484c788d16
