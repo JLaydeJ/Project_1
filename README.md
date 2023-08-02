@@ -32,9 +32,21 @@ We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We t
 
 # Exploratory Question 2020 - 20222
 1. What were the most common powerball/powerplay numbers depending on the day?
+![Most_played_Powerball_Powerplay_per_Weekday_2020_2022](https://github.com/JLaydeJ/Project_1/assets/134284646/1c47968c-d449-4733-9375-770c1bb7f1c9)
+
+   
 2. What were the most common powerball/powerplay numbers depending on the month?
+![Most_played_Powerball_Powerplay_weekly_2020_2022](https://github.com/JLaydeJ/Project_1/assets/134284646/f725bef4-1375-4e6c-b59b-864a2f4c98a8)
+
+
 3. What were the most common powerball/powerplay numbers overall?
+![Powerball_and_Powerplay_values_by_year](https://github.com/JLaydeJ/Project_1/assets/134284646/256fa347-efaf-43fd-8360-9a4aa7e45d55)
+
+
 4. What are the top five greatest dollar months jackpot?
+![2020_2022_Max_Jackpot_per_Month](https://github.com/JLaydeJ/Project_1/assets/134284646/d84b64c6-595a-4224-a577-45a838d0779c)
+
+
 5. Which day of the week had the highest jackpot? 
 
 
