@@ -32,22 +32,22 @@ We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We t
 
 # Exploratory Question 2020 - 20222
 1. What were the most common powerball/powerplay numbers depending on the day?
-![Most_played_Powerball_Powerplay_per_Weekday_2020_2022](https://github.com/JLaydeJ/Project_1/assets/134284646/6a9c5dca-61aa-4155-8f5e-ffc30468ad27)
+![Screenshot 2023-08-01 222902](https://github.com/JLaydeJ/Project_1/assets/134284646/ab888862-c655-4da0-ab30-47db18dfde12)
 
 
    
 2. What were the most common powerball/powerplay numbers depending on the month?
-![Most_played_Powerball_Powerplay_weekly_2020_2022](https://github.com/JLaydeJ/Project_1/assets/134284646/b7a2b430-b8b8-430a-9771-56e96d7906e9)
+![Screenshot 2023-08-01 222853](https://github.com/JLaydeJ/Project_1/assets/134284646/04028f18-ff8f-4135-8da9-1ec81b83d2ab)
 
 
 
 3. What were the most common powerball/powerplay numbers overall?
-![Powerball_and_Powerplay_values_by_year](https://github.com/JLaydeJ/Project_1/assets/134284646/038e62e5-ba4f-46a1-999b-09c46586a83f)
+![Screenshot 2023-08-01 222844](https://github.com/JLaydeJ/Project_1/assets/134284646/a4e85951-b7dc-42be-8699-b7a626596877)
 
 
 
 4. What are the top five greatest dollar months jackpot?
-![2020_2022_Max_Jackpot_per_Month](https://github.com/JLaydeJ/Project_1/assets/134284646/89311ef9-dd3f-4aac-a688-b6e9eebb8762)
+![Screenshot 2023-08-01 222834](https://github.com/JLaydeJ/Project_1/assets/134284646/bdcde997-e76d-4d82-b7f8-23ab67918f52)
 
 
 
