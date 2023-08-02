@@ -1,14 +1,22 @@
-
-
-# Washington State 2020 - 2022 Powerball/Powerplay Lottery
-
+![image](https://github.com/JLaydeJ/Project_1/assets/134284646/89f1495e-c91b-4c7b-9467-d260c0593ab7)
+# Washington State Powerball/Powerplay Lottery
 Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 
+<<<<<<< HEAD
 # Background
 “How can you best play the lottery?”
 That question has two components:
 1. What numbers can you pick to help your odds?
 2. When can you play to win the most money? To answer those questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. 
+=======
+# Description
+Analyzing Washington State Lottery Data from January 2020 - December 2022. 
+
+
+
+
+ We will be analyzing our Powerball, Powerplay, and Jackpot data. This will include Powerball and Powerplay winning numbers.  
+>>>>>>> 35c6f283a6b946a682b3384fe14c9d7aae3ba31d
 
  
 # Data Source
