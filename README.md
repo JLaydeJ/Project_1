@@ -4,9 +4,12 @@ Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 
 # Project Description
 “How can you best play the lottery?”
+
 That question has two components:
 1. What numbers can you pick to help your odds?
-2. When can you play to win the most money? To answer those questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. 
+2. When can you play to win the most money?
+
+To answer these questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. The goal of this project is to determine the frequency of the powerball/powerplay to increase our odds of maximizing our payout. 
  
 # Data Source
 The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lottery-data-winning-numbers-and-jackpots as an aggregate .csv. This CSV file covers past lottery data in Washington State from June 2014 - November 2022. The original source was pulled from Lottery Corner - https://www.lotterycorner.com/wa/powerball/2022. 
