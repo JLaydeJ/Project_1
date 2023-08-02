@@ -1,54 +1,50 @@
+![image](https://github.com/JLaydeJ/Project_1/assets/134284646/89f1495e-c91b-4c7b-9467-d260c0593ab7)
+# Washington State Powerball/Powerplay Lottery
+Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 
-Washington State Lottery Winners
+# Background
+“How can you best play the lottery?”
+That question has two components:
+1. What numbers can you pick to help your odds?
+2. When can you play to win the most money? To answer those questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. 
+ 
+# Data Source
+The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lottery-data-winning-numbers-and-jackpots as an aggregate .csv. This csv file cover past lottery data in Washington state from June 2014 - November 2022. The original source was pulled from Lottery Corner - https://www.lotterycorner.com/wa/powerball/2022. This file includes the following data: 
 
-Team members:
-Jamee Jones  -- point on Github '2021'
-Evan Woodard  '2022'
-Erika Evergarden  '2020'
+- date - date of winnings
 
-Description:
-Analyzing lottery data from Washington State from June 2014 - November 2022.  The data source is from Lottery Corner https://www.lotterycorner.com/wa/powerball/2022 as an aggregate .csv.  We will be comparing the most recent data year 2022 to the past years all the way back to June 2014.  This will include power ball winners,  powerplay winners.  
+- weekday - day of week winnings were announced
 
-Data Dictionary:
+- winning numbers - string of winning numbers for jackpot
 
-Date - date of winnings
+- powerball - Winning powerball number; If your Powerball matches the one that is drawn you will get your $2 ticket purchase back and a couple of bucks more, for a total of $4.
 
-weekday - day of the week numbers
-were announced
+- powerplay - Winning powerplay number - for an additional $1 per play, the powerplay feature multiplies non-jackpot prizes. The multiplier number is randomly selected just before each drawing.
 
-winning_numbers - String of winning jackpot
-numbers
+- jackpot - total jackpot amount in USD
 
-powerball - Winning powerball number -
-If your Powerball matches the
-one that is drawn you will get
-your $2 ticket purchase back
-and a couple bucks more, for
-a total of $4.
-
-powerplay - Winning powerplay number -
-for an additional $1 per play,
-the powerplay feature
-multiplies non-jackpot prizes.
-The multiplier number is
-randomly selected just before
-each drawing.
-
-jackpot - Total winning jackpot amount
-in USD.
+# Prepare the Data
+We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We then divided the CSV file into 3 separate CSV files for the years 2020, 2021, and 2022. Using Pandas, we were able to import the data, and then merge the combined year DataFrames into a single DataFrame. The final combined DataFrame: 
 
 
-Part 2: 2020 - 2022
 
-1)	 What was one of the most common powerball/powerplay numbers depending on the day?
-
-2)  What was one of the most common powerball/powerplay numbers depending on the month?
-
-3)	What was one of the most common powerball/powerplay numbers overall?
-
-4) 	What are the top five greatest dollar months jackpot?
-
-5)	Which day of the week had the highest jackpot?
+# Exploratory Question 2020 - 20222
+1. What were the most common powerball/powerplay numbers depending on the day?
+2. What were the most common powerball/powerplay numbers depending on the month?
+3. What were the most common powerball/powerplay numbers overall?
+4. What are the top five greatest dollar months jackpot?
+5. Which day of the week had the highest jackpot? 
 
 
-Synopsis of what you will find
+
+
+
+# Summary Statistics
+
+
+Null hypothesis: There is no better or worse way to play the lottery.
+Alternative hypothesis: There is a projectable difference in outcomes based on the numbers you choose, the time of year, and the day of the week you play. 
+
+# Table of Contents
+- Data Source
+- Exploratory Question
