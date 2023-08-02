@@ -39,6 +39,7 @@ We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We t
 2. What were the most common powerball/powerplay numbers depending on the month?
 ![Screenshot 2023-08-01 222853](https://github.com/JLaydeJ/Project_1/assets/134284646/04028f18-ff8f-4135-8da9-1ec81b83d2ab)
 
+According to our data between the years 2020 to 2022.  The powerball number that is randomly picked the most frequently every month is 18.  The powerplay number that is most often randomly picked every month is 2.  This data is acquired by taking a mode function of aggregate data.  This aggregate data is first grouped by weekdays, then these weekdays are grouped by there respective months.  By doing this, we are effectively performing a mode function over all selected weekdays per month.
 
 
 3. What were the most common powerball/powerplay numbers overall?
