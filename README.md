@@ -4,14 +4,13 @@
 
 Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 
-# Description:
-Analyzing Washington State Lottery Data from January 2020 - December 2022. 
+# Background
+“How can you best play the lottery?”
+That question has two components:
+1. What numbers can you pick to help your odds?
+2. When can you play to win the most money? To answer those questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. 
 
-
-
-
- We will be analyzing our Powerball, Powerplay, and Jackpot data. This will include Powerball and Powerplay winning numbers.  
-
+ 
 # Data Source
 The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lottery-data-winning-numbers-and-jackpots as an aggregate .csv. This csv file cover past lottery data in Washington state from June 2014 - November 2022. The original source was pulled from Lottery Corner - https://www.lotterycorner.com/wa/powerball/2022. This file includes the following data: 
 
@@ -27,6 +26,11 @@ The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lotte
 
 - jackpot - total jackpot amount in USD
 
+# Prepare the Data
+We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We then divided the CSV file into 3 separate CSV files for the years 2020, 2021, and 2022. Using Pandas, we were able to import the data, and then merge the combined year DataFrames into a single DataFrame. The final combined DataFrame: 
+
+
+
 # Exploratory Question 2020 - 20222
 1. What were the most common powerball/powerplay numbers depending on the day?
 2. What were the most common powerball/powerplay numbers depending on the month?
@@ -36,6 +40,13 @@ The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lotte
 
 
 
+
+
+# Summary Statistics
+
+
+Null hypothesis: There is no better or worse way to play the lottery.
+Alternative hypothesis: There is a projectable difference in outcomes based on the numbers you choose, the time of year, and the day of the week you play. 
 
 # Table of Contents
 - Data Source
