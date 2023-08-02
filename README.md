@@ -7,7 +7,6 @@ Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 That question has two components:
 1. What numbers can you pick to help your odds?
 2. When can you play to win the most money? To answer those questions, we looked for the most often drawn numbers and the highest dollar winnings, both filtered by day and by month. 
-
  
 # Data Source
 The data source is from Kaggle https://www.kaggle.com/datasets/stetsondone/lottery-data-winning-numbers-and-jackpots as an aggregate .csv. This csv file cover past lottery data in Washington state from June 2014 - November 2022. The original source was pulled from Lottery Corner - https://www.lotterycorner.com/wa/powerball/2022. This file includes the following data: 
