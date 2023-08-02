@@ -1,4 +1,4 @@
-![dataset-cover](https://github.com/JLaydeJ/Project_1/assets/134284646/e583b49c-6df9-4bcf-8795-a2c9f5b2953f)
+![image](https://github.com/JLaydeJ/Project_1/assets/134284646/89f1495e-c91b-4c7b-9467-d260c0593ab7)
 # Washington State Powerball/Powerplay Lottery
 Team Members: Erika Evergarden '2020', Jamee Jones '2021', Evan Woodard '2022'
 
