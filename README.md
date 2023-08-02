@@ -52,11 +52,7 @@ According to our data between the years 2020 to 2022.  The powerball number that
 
 According to our data between the years 2020 to 2022, 2022 (November, October, January) had the highest jackpot winnings. The findings were acquired by grouping the aggregate data by month and then applying the max function to find the top 5 maximum values. Since 2022 held the top 5 highest jackpot winnings, we decided to display the top 5 jackpot winnings for 2020 and 2021. The highest jackpot winnings were in November 2022 $120,000,000,000, October 2022 $1,000,000,000, $825,000,000, $700,000,000 and January 2022: $630,000,000.  
 
-6. Which day of the week had the highest jackpot? 
+5. Which day of the week had the highest jackpot?
 
+According to our data between the years 2020 to 2022, Wednesday had the highest jackpot winnings. The findings were acquired by grouping the aggregate data by weekday and then applying the max function to find the maximum values for each draw day. The highest jackpot winnings were drawn on Wednesday 2022 $120,000,000,000.  
 
-# Summary Statistics
-Null hypothesis: There is no better or worse way to play the lottery.
-Alternative hypothesis: There is a projectable difference in outcomes based on the numbers you choose, the time of year, and the day of the week you play. 
-
-# Resources
