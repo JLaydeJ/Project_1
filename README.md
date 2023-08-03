@@ -33,10 +33,11 @@ We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We t
 # Exploratory Question 2020 - 20222
 1. What were the most common powerball/powerplay numbers depending on the day?
 ![Screenshot 2023-08-01 222902](https://github.com/JLaydeJ/Project_1/assets/134284646/ab888862-c655-4da0-ab30-47db18dfde12)
+
 The most often drawn Powerball number by day could be used as a data point to base your numbers on, but the data didn’t show enough significance to count on it. We grouped the data by date for each year, then combined each of the modes to calculate them for the three year span.
 
    
-2. What were the most common powerball/powerplay numbers depending on the month?
+3. What were the most common powerball/powerplay numbers depending on the month?
 ![Screenshot 2023-08-01 222853](https://github.com/JLaydeJ/Project_1/assets/134284646/04028f18-ff8f-4135-8da9-1ec81b83d2ab)
 
 According to our data between the years 2020 to 2022.  The powerball number that is randomly picked the most frequently every month is 18.  The powerplay number that is most often randomly picked every month is 2.  This data is acquired by taking a mode function of aggregate data.  This aggregate data is first grouped by weekdays, then these weekdays are grouped by their respective months.  By doing this, we are effectively performing a mode function over all selected weekdays per month.
@@ -44,10 +45,11 @@ According to our data between the years 2020 to 2022.  The powerball number that
 
 3. What were the most common powerball/powerplay numbers overall?
 ![Screenshot 2023-08-01 222844](https://github.com/JLaydeJ/Project_1/assets/134284646/a4e85951-b7dc-42be-8699-b7a626596877)
+
 This one is a little more interesting to us since two years have the same mode. Both 2020 and 2022 had a mode of 18. We did the same thing for this one, but grouped mode by year instead of month or day.
 
 
-4. What are the top five greatest dollar months jackpot?
+5. What are the top five greatest dollar months jackpot?
 ![Screenshot 2023-08-01 222834](https://github.com/JLaydeJ/Project_1/assets/134284646/bdcde997-e76d-4d82-b7f8-23ab67918f52)
 
 According to our data between the years 2020 to 2022, 2022 (November, October, January) had the highest jackpot winnings. The findings were acquired by grouping the aggregate data by month and then applying the max function to find the top 5 maximum values. Since 2022 held the top 5 highest jackpot winnings, we decided to display the top 5 jackpot winnings for 2020 and 2021. The highest jackpot winnings were in November 2022 $120,000,000,000, October 2022 $1,000,000,000, $825,000,000, $700,000,000 and January 2022: $630,000,000.  
