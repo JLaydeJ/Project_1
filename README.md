@@ -33,7 +33,7 @@ We reduced our original CSV file from the years 2014 - 2022 to 2020 - 2022. We t
 # Exploratory Question 2020 - 20222
 1. What were the most common powerball/powerplay numbers depending on the day?
 ![Screenshot 2023-08-01 222902](https://github.com/JLaydeJ/Project_1/assets/134284646/ab888862-c655-4da0-ab30-47db18dfde12)
-
+The most often drawn Powerball number by day could be used as a data point to base your numbers on, but the data didn’t show enough significance to count on it. We grouped the data by date for each year, then combined each of the modes to calculate them for the three year span.
 
    
 2. What were the most common powerball/powerplay numbers depending on the month?
@@ -44,7 +44,7 @@ According to our data between the years 2020 to 2022.  The powerball number that
 
 3. What were the most common powerball/powerplay numbers overall?
 ![Screenshot 2023-08-01 222844](https://github.com/JLaydeJ/Project_1/assets/134284646/a4e85951-b7dc-42be-8699-b7a626596877)
-
+This one is a little more interesting to us since two years have the same mode. Both 2020 and 2022 had a mode of 18. We did the same thing for this one, but grouped mode by year instead of month or day.
 
 
 4. What are the top five greatest dollar months jackpot?
@@ -54,5 +54,5 @@ According to our data between the years 2020 to 2022, 2022 (November, October, J
 
 5. Which day of the week had the highest jackpot?
 
-According to our data between the years 2020 to 2022, Wednesday had the highest jackpot winnings. The findings were acquired by grouping the aggregate data by weekday and then applying the max function to find the maximum values for each draw day. The highest jackpot winnings were drawn on Wednesday 2022 $120,000,000,000.  
+According to our data between the years 2020 to 2022, Wednesday had the highest jackpot winnings. The findings were acquired by grouping the aggregate data by weekday and then applying the max function to find the maximum values for each draw day. The highest jackpot winnings were drawn on Wednesday 2022 $120,000,000,000.  This is such a large jackpot that comparable to our other jackpot data it can be considered an outlier.
 
